@@ -1,0 +1,5 @@
+br\unicesumar\aula\modelo\Projeto.class
+br\unicesumar\aula\controle\ProjetoDAO.class
+br\unicesumar\aula\controle\ProjetoImpl.class
+br\unicesumar\aula\Principal.class
+br\unicesumar\aula\exceptions\DadoConsultadoException.class
